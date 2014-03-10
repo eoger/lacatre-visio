@@ -13,6 +13,10 @@ If you need a new one, feel free to fill a pull request.
 
 ![](docs/stencils.png)
 
+##Can I open this stencil on GNU+Linux or Mac ?
+
+You can open it with [Lucidchart](https://www.lucidchart.com/)
+
 ##How do I use the stencil ?
 
 Just open it in Visual Studio, create a new Empty Document and you're set.
