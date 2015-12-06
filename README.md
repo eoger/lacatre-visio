@@ -1,4 +1,4 @@
-LACATRE stencil for Visual Studio
+LACATRE stencil for Microsoft Visio
 =============
 
 ##What is LACATRE ?
@@ -15,11 +15,11 @@ If you need a new one, feel free to fill a pull request.
 
 ##Can I open this stencil on GNU+Linux or Mac ?
 
-You can open it with [Lucidchart](https://www.lucidchart.com/)
+You can also open this stencil with [Lucidchart](https://www.lucidchart.com/)
 
 ##How do I use the stencil ?
 
-Just open it in Visual Studio, create a new Empty Document and you're set.
+Just open the stencil in Visio, create a new Empty Document and you're set.
 
 ##Example
 
